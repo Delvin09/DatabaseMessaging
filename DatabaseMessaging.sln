@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.28307.757
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseMessaging", "DatabaseMessaging\DatabaseMessaging.csproj", "{08AEFFF5-ECA8-400D-A866-B384C531CE1A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageProcessot", "MessageProcessot\MessageProcessot.csproj", "{A98925D5-E594-41DD-9AAA-0C23E2453ECF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageProcessorLib", "MessageProcessorLib\MessageProcessorLib.csproj", "{3328BEF2-F481-4C06-BD49-2845A9214C9C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{08AEFFF5-ECA8-400D-A866-B384C531CE1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{08AEFFF5-ECA8-400D-A866-B384C531CE1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{08AEFFF5-ECA8-400D-A866-B384C531CE1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A98925D5-E594-41DD-9AAA-0C23E2453ECF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A98925D5-E594-41DD-9AAA-0C23E2453ECF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A98925D5-E594-41DD-9AAA-0C23E2453ECF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A98925D5-E594-41DD-9AAA-0C23E2453ECF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3328BEF2-F481-4C06-BD49-2845A9214C9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3328BEF2-F481-4C06-BD49-2845A9214C9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3328BEF2-F481-4C06-BD49-2845A9214C9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3328BEF2-F481-4C06-BD49-2845A9214C9C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
